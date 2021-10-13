@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newcalendar.github.io</id>
     <title>Eleven</title>
-    <updated>2021-10-13T06:35:53.574Z</updated>
+    <updated>2021-10-13T06:42:04.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://newcalendar.github.io"/>
     <link rel="self" href="https://newcalendar.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://newcalendar.github.io/images/avatar.png</logo>
     <icon>https://newcalendar.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Eleven</rights>
+    <entry>
+        <title type="html"><![CDATA[使用静态生成制作博客]]></title>
+        <id>https://newcalendar.github.io/shi-yong-jing-tai-sheng-cheng-zhi-zuo-bo-ke/</id>
+        <link href="https://newcalendar.github.io/shi-yong-jing-tai-sheng-cheng-zhi-zuo-bo-ke/">
+        </link>
+        <updated>2021-10-13T06:40:38.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的简单博客]]></title>
         <id>https://newcalendar.github.io/wo-de-jian-dan-bo-ke/</id>
